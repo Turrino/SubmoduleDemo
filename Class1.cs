@@ -8,6 +8,6 @@ namespace DemoLib
 {
     public static class Class1
     {
-        public static string pickles = "pickles";
+        public static string pickles = "apples";
     }
 }
